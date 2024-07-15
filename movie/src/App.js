@@ -2,6 +2,7 @@ import './App.css';
 import Main from './Main';
 import NavComponent from './Nav';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Test from './Test';
 
 function App() {
   return (
@@ -9,6 +10,8 @@ function App() {
     <NavComponent/>
 
     <Main />
+
+    <Test/>
  
 
      
