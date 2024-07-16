@@ -6,9 +6,13 @@ import { Container, Row, Col, Card } from 'react-bootstrap';
 const Main = () => {
   // Dummy data
   const items = [
-    { id: 1, imgSrc: 'https://via.placeholder.com/150', title: 'Planet of Apes', url: 'https://streamtape.com/e/QdqBj0BJP3s03Rv/Kingdom.Of.The.Planet.Of.The.Apes.2024.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4' },
-    { id: 2, imgSrc: 'https://via.placeholder.com/150', title: 'TimeCrimes', url: 'https://streamtape.com/e/8PyzgGa1q2hoqkG/Timecrimes.2007.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4' },
-    { id: 3, imgSrc: 'https://via.placeholder.com/150', title: 'Item 3', url: '#' },
+    { id: 1, imgSrc: 'https://via.placeholder.com/150', title: 'Planet of Apes', url: 'https://filemoon.sx/e/vs16fchgoxxf' },
+    { id: 2, imgSrc: 'https://via.placeholder.com/150', title: 'TimeCrimes', url: 'https://filemoon.sx/e/7b09lwkpjf2o' },
+    { id: 3, imgSrc: 'https://via.placeholder.com/150', title: 'I am Legend', url: 'https://filemoon.sx/e/5ebbnkmrpczz' },
+    { id: 4, imgSrc: 'https://via.placeholder.com/150', title: 'The Watchers', url: 'https://filemoon.sx/e/x25wzreteyfz' },
+    { id: 5, imgSrc: 'https://via.placeholder.com/150', title: 'Inside Man', url: '###' },
+
+
     // Add more items as needed
   ];
 
